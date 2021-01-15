@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123668</millis>
+  <sequence>12</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123668</millis>
+  <sequence>13</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:13, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123696</millis>
+  <sequence>25</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:25, Index: 2147483646, Size: 3</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123700</millis>
+  <sequence>26</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:26, Index: 2147483647, Size: 3</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123738</millis>
+  <sequence>32</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:32, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123742</millis>
+  <sequence>33</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>The order has something wrong.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123756</millis>
+  <sequence>37</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:36, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123774</millis>
+  <sequence>42</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:41, Object not found, name: error</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123779</millis>
+  <sequence>43</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:nullOrderItem, The order has something wrong.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123806</millis>
+  <sequence>52</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:50, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123845</millis>
+  <sequence>59</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:57, File data/drinks_THB.csv does not exist.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123873</millis>
+  <sequence>66</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:0, The order has something wrong.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123894</millis>
+  <sequence>74</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:71, Object not found, name: null</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139486</millis>
+  <sequence>7</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139488</millis>
+  <sequence>8</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:8, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139513</millis>
+  <sequence>18</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:18, Index: 2147483646, Size: 3</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139518</millis>
+  <sequence>19</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:19, Index: 2147483647, Size: 3</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139535</millis>
+  <sequence>25</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:25, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139540</millis>
+  <sequence>26</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>The order has something wrong.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139551</millis>
+  <sequence>28</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:27, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139571</millis>
+  <sequence>33</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:32, Object not found, name: error</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139574</millis>
+  <sequence>34</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:nullOrderItem, The order has something wrong.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139593</millis>
+  <sequence>40</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:38, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139617</millis>
+  <sequence>47</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:45, File data/drinks_THB.csv does not exist.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139646</millis>
+  <sequence>54</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:0, The order has something wrong.</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139673</millis>
+  <sequence>58</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:55, Object not found, name: null</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:36:15</date>
+  <millis>1561174575086</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Promotion type is wrong.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:37:53</date>
+  <millis>1561174673537</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Promotion type is wrong.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:38:04</date>
+  <millis>1561174684118</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Promotion type is wrong.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658166</millis>
+  <sequence>9</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User not found!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658173</millis>
+  <sequence>10</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658177</millis>
+  <sequence>11</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658180</millis>
+  <sequence>12</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658185</millis>
+  <sequence>13</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658189</millis>
+  <sequence>14</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658194</millis>
+  <sequence>15</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658199</millis>
+  <sequence>17</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658207</millis>
+  <sequence>19</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658216</millis>
+  <sequence>21</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658230</millis>
+  <sequence>23</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658241</millis>
+  <sequence>25</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658246</millis>
+  <sequence>27</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658270</millis>
+  <sequence>30</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658274</millis>
+  <sequence>31</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658277</millis>
+  <sequence>32</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User already exists, name: starbb_hu</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658280</millis>
+  <sequence>33</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658287</millis>
+  <sequence>34</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Please login</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658290</millis>
+  <sequence>35</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username or password error.</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658294</millis>
+  <sequence>36</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User not found!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658298</millis>
+  <sequence>37</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658303</millis>
+  <sequence>38</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username or password error.</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658305</millis>
+  <sequence>39</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658309</millis>
+  <sequence>40</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658318</millis>
+  <sequence>42</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658322</millis>
+  <sequence>43</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658325</millis>
+  <sequence>44</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658345</millis>
+  <sequence>47</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User not found!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202574</millis>
+  <sequence>15</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User not found!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202590</millis>
+  <sequence>18</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202594</millis>
+  <sequence>19</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202598</millis>
+  <sequence>20</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202604</millis>
+  <sequence>21</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202609</millis>
+  <sequence>22</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202616</millis>
+  <sequence>23</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202622</millis>
+  <sequence>25</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202627</millis>
+  <sequence>27</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202632</millis>
+  <sequence>29</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202636</millis>
+  <sequence>31</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202645</millis>
+  <sequence>33</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202653</millis>
+  <sequence>35</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202662</millis>
+  <sequence>38</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202667</millis>
+  <sequence>39</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202676</millis>
+  <sequence>40</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User already exists, name: starbb_hu</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202680</millis>
+  <sequence>41</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202690</millis>
+  <sequence>46</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Please login</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202694</millis>
+  <sequence>47</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username or password error.</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202699</millis>
+  <sequence>48</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User not found!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202704</millis>
+  <sequence>49</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202708</millis>
+  <sequence>50</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username or password error.</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202714</millis>
+  <sequence>51</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202720</millis>
+  <sequence>52</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202728</millis>
+  <sequence>54</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid password!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202736</millis>
+  <sequence>55</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid null parameters</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202741</millis>
+  <sequence>56</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Invalid username!</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202758</millis>
+  <sequence>59</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User not found!</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385526</millis>
+  <sequence>12</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385527</millis>
+  <sequence>13</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:13, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385553</millis>
+  <sequence>18</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:18, Index: 2147483646, Size: 3</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385556</millis>
+  <sequence>19</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:19, Index: 2147483647, Size: 3</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385576</millis>
+  <sequence>25</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:25, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385593</millis>
+  <sequence>29</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:29, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385614</millis>
+  <sequence>34</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:34, Object not found, name: error</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385621</millis>
+  <sequence>35</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:35, The order has something wrong.</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385649</millis>
+  <sequence>44</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:44, Ingredient is invalid.</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385686</millis>
+  <sequence>57</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:57, The order has something wrong.</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385712</millis>
+  <sequence>65</sequence>
+  <logger>starbb.logger.fail</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:65, Object not found, name: null</message>
+</record>
+</log>

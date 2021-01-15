@@ -1,0 +1,2503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123635</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:1, TotalPrice:72.0¥, Discount:16.0¥, FinalPrice:56.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123640</millis>
+  <sequence>1</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:2, TotalPrice:24.0¥, Discount:0.0¥, FinalPrice:24.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123642</millis>
+  <sequence>2</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:3, TotalPrice:52.0¥, Discount:11.0¥, FinalPrice:41.0¥, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123646</millis>
+  <sequence>3</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:4, TotalPrice:49.0¥, Discount:11.0¥, FinalPrice:38.0¥, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123647</millis>
+  <sequence>4</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:5, TotalPrice:78.0¥, Discount:11.0¥, FinalPrice:67.0¥, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123648</millis>
+  <sequence>5</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:6, TotalPrice:96.0¥, Discount:22.0¥, FinalPrice:74.0¥, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123654</millis>
+  <sequence>6</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:7, TotalPrice:146.0¥, Discount:34.0¥, FinalPrice:112.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123656</millis>
+  <sequence>7</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:8, TotalPrice:164.0¥, Discount:34.0¥, FinalPrice:130.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123659</millis>
+  <sequence>8</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:9, TotalPrice:148.0¥, Discount:36.0¥, FinalPrice:112.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123662</millis>
+  <sequence>9</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:10, TotalPrice:20.0¥, Discount:0.0¥, FinalPrice:20.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123662</millis>
+  <sequence>10</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:11, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123663</millis>
+  <sequence>11</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:12, TotalPrice:23.0¥, Discount:0.0¥, FinalPrice:23.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123671</millis>
+  <sequence>14</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:14, TotalPrice:30.0HK$, Discount:0.0HK$, FinalPrice:30.0HK$, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123672</millis>
+  <sequence>15</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:15, TotalPrice:30.25HK$, Discount:0.0HK$, FinalPrice:30.25HK$, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123673</millis>
+  <sequence>16</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:16, TotalPrice:98.75HK$, Discount:10.0HK$, FinalPrice:88.75HK$, msgs:a 20% discount on every two Espresso(only big size)(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123675</millis>
+  <sequence>17</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:17, TotalPrice:66.25HK$, Discount:13.75HK$, FinalPrice:52.5HK$, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123678</millis>
+  <sequence>18</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:18, TotalPrice:95.0HK$, Discount:20.0HK$, FinalPrice:75.0HK$, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123679</millis>
+  <sequence>19</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:19, TotalPrice:105.0HK$, Discount:30.0HK$, FinalPrice:75.0HK$, msgs:subtract 30 HK$ from every 100 HK$ for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123682</millis>
+  <sequence>20</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:20, TotalPrice:51.25HK$, Discount:7.69HK$, FinalPrice:43.56HK$, msgs:when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123688</millis>
+  <sequence>21</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:21, TotalPrice:196.0¥, Discount:41.0¥, FinalPrice:155.0¥, msgs:a 20% discount on every two Espresso(only big size)(basic-price);every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123689</millis>
+  <sequence>22</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:22, TotalPrice:192.0¥, Discount:71.8¥, FinalPrice:120.2¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);every two Cappuccino，the second cup of half-price(basic-price);when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123691</millis>
+  <sequence>23</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:23, TotalPrice:196.0¥, Discount:69.4¥, FinalPrice:126.6¥, msgs:a 20% discount on every two Espresso(only big size)(basic-price);a free drink for every 3 cups of either red tea or green tea(basic-price);when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123693</millis>
+  <sequence>24</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:24, TotalPrice:172.0¥, Discount:60.8¥, FinalPrice:111.2¥, msgs:a 20% discount on every two Espresso(only big size)(basic-price);a free drink for every 3 cups of either red tea or green tea(basic-price);every two Cappuccino，the second cup of half-price(basic-price);when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123702</millis>
+  <sequence>27</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:27, TotalPrice:26.0¥, Discount:0.0¥, FinalPrice:26.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123704</millis>
+  <sequence>28</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:28, TotalPrice:23.0¥, Discount:0.0¥, FinalPrice:23.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123726</millis>
+  <sequence>29</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:29, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123729</millis>
+  <sequence>30</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:30, TotalPrice:23.0¥, Discount:0.0¥, FinalPrice:23.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123731</millis>
+  <sequence>31</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:31, TotalPrice:25.0¥, Discount:0.0¥, FinalPrice:25.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123745</millis>
+  <sequence>34</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:33, TotalPrice:100.0¥, Discount:30.0¥, FinalPrice:70.0¥, msgs:subtract 30 ¥ from every 100 ¥ for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123748</millis>
+  <sequence>35</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:34, TotalPrice:146.0¥, Discount:34.0¥, FinalPrice:112.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123752</millis>
+  <sequence>36</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:35, TotalPrice:148.0¥, Discount:30.0¥, FinalPrice:118.0¥, msgs:a 20% discount on every two Espresso(only big size)(basic-price);every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123759</millis>
+  <sequence>38</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:37, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123760</millis>
+  <sequence>39</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:38, TotalPrice:24.0¥, Discount:0.0¥, FinalPrice:24.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123760</millis>
+  <sequence>40</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:39, TotalPrice:26.0¥, Discount:0.0¥, FinalPrice:26.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123767</millis>
+  <sequence>41</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:40, TotalPrice:24.2¥, Discount:0.0¥, FinalPrice:24.2¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123782</millis>
+  <sequence>44</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:42, TotalPrice:26.0¥, Discount:0.0¥, FinalPrice:26.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123783</millis>
+  <sequence>45</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:43, TotalPrice:48.0¥, Discount:0.0¥, FinalPrice:48.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123784</millis>
+  <sequence>46</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:44, TotalPrice:53.0¥, Discount:8.0¥, FinalPrice:45.0¥, msgs:a 20% discount on every two Espresso(only big size)(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123786</millis>
+  <sequence>47</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:45, TotalPrice:79.0¥, Discount:8.0¥, FinalPrice:71.0¥, msgs:a 20% discount on every two Espresso(only big size)(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123794</millis>
+  <sequence>48</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:46, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123797</millis>
+  <sequence>49</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:47, TotalPrice:100.0¥, Discount:30.0¥, FinalPrice:70.0¥, msgs:subtract 30 ¥ from every 100 ¥ for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123800</millis>
+  <sequence>50</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:48, TotalPrice:110.0¥, Discount:30.0¥, FinalPrice:80.0¥, msgs:subtract 30 ¥ from every 100 ¥ for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123803</millis>
+  <sequence>51</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:49, TotalPrice:220.0¥, Discount:60.0¥, FinalPrice:160.0¥, msgs:subtract 30 ¥ from every 100 ¥ for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123808</millis>
+  <sequence>53</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:51, TotalPrice:26.0¥, Discount:0.0¥, FinalPrice:26.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123826</millis>
+  <sequence>54</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:52, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123827</millis>
+  <sequence>55</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:53, TotalPrice:23.0¥, Discount:0.0¥, FinalPrice:23.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123828</millis>
+  <sequence>56</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:54, TotalPrice:25.0¥, Discount:0.0¥, FinalPrice:25.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123836</millis>
+  <sequence>57</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:55, TotalPrice:46.0¥, Discount:0.0¥, FinalPrice:46.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123837</millis>
+  <sequence>58</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:56, TotalPrice:38.0¥, Discount:0.0¥, FinalPrice:38.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123853</millis>
+  <sequence>60</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:58, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123855</millis>
+  <sequence>61</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:59, TotalPrice:66.0¥, Discount:0.0¥, FinalPrice:66.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123859</millis>
+  <sequence>62</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:60, TotalPrice:24.0¥, Discount:0.0¥, FinalPrice:24.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123862</millis>
+  <sequence>63</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:61, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123865</millis>
+  <sequence>64</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:62, TotalPrice:20.0¥, Discount:0.0¥, FinalPrice:20.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123866</millis>
+  <sequence>65</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:63, TotalPrice:18.0¥, Discount:0.0¥, FinalPrice:18.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123881</millis>
+  <sequence>67</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:64, TotalPrice:60.0¥, Discount:0.0¥, FinalPrice:60.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123883</millis>
+  <sequence>68</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:65, TotalPrice:83.0¥, Discount:18.0¥, FinalPrice:65.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123885</millis>
+  <sequence>69</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:66, TotalPrice:81.0¥, Discount:18.0¥, FinalPrice:63.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123886</millis>
+  <sequence>70</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:67, TotalPrice:80.0¥, Discount:18.0¥, FinalPrice:62.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123888</millis>
+  <sequence>71</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:68, TotalPrice:180.0¥, Discount:36.0¥, FinalPrice:144.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123891</millis>
+  <sequence>72</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:69, TotalPrice:40.0¥, Discount:6.0¥, FinalPrice:34.0¥, msgs:when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:03</date>
+  <millis>1561173123891</millis>
+  <sequence>73</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:70, TotalPrice:80.0¥, Discount:12.0¥, FinalPrice:68.0¥, msgs:when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139456</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:1, TotalPrice:72.0¥, Discount:16.0¥, FinalPrice:56.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139460</millis>
+  <sequence>1</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:2, TotalPrice:24.0¥, Discount:0.0¥, FinalPrice:24.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139461</millis>
+  <sequence>2</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:3, TotalPrice:52.0¥, Discount:11.0¥, FinalPrice:41.0¥, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139473</millis>
+  <sequence>3</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:4, TotalPrice:146.0¥, Discount:34.0¥, FinalPrice:112.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139479</millis>
+  <sequence>4</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:5, TotalPrice:20.0¥, Discount:0.0¥, FinalPrice:20.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139480</millis>
+  <sequence>5</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:6, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139481</millis>
+  <sequence>6</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:7, TotalPrice:23.0¥, Discount:0.0¥, FinalPrice:23.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139494</millis>
+  <sequence>9</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:9, TotalPrice:30.0HK$, Discount:0.0HK$, FinalPrice:30.0HK$, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139496</millis>
+  <sequence>10</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:10, TotalPrice:30.25HK$, Discount:0.0HK$, FinalPrice:30.25HK$, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139497</millis>
+  <sequence>11</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:11, TotalPrice:98.75HK$, Discount:10.0HK$, FinalPrice:88.75HK$, msgs:a 20% discount on every two Espresso(only big size)(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139498</millis>
+  <sequence>12</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:12, TotalPrice:66.25HK$, Discount:13.75HK$, FinalPrice:52.5HK$, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139500</millis>
+  <sequence>13</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:13, TotalPrice:95.0HK$, Discount:20.0HK$, FinalPrice:75.0HK$, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139502</millis>
+  <sequence>14</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:14, TotalPrice:105.0HK$, Discount:30.0HK$, FinalPrice:75.0HK$, msgs:subtract 30 HK$ from every 100 HK$ for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139503</millis>
+  <sequence>15</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:15, TotalPrice:51.25HK$, Discount:7.69HK$, FinalPrice:43.56HK$, msgs:when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139507</millis>
+  <sequence>16</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:16, TotalPrice:196.0¥, Discount:41.0¥, FinalPrice:155.0¥, msgs:a 20% discount on every two Espresso(only big size)(basic-price);every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139509</millis>
+  <sequence>17</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:17, TotalPrice:192.0¥, Discount:71.8¥, FinalPrice:120.2¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);every two Cappuccino，the second cup of half-price(basic-price);when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139521</millis>
+  <sequence>20</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:20, TotalPrice:26.0¥, Discount:0.0¥, FinalPrice:26.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139524</millis>
+  <sequence>21</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:21, TotalPrice:23.0¥, Discount:0.0¥, FinalPrice:23.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139527</millis>
+  <sequence>22</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:22, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139528</millis>
+  <sequence>23</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:23, TotalPrice:23.0¥, Discount:0.0¥, FinalPrice:23.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139529</millis>
+  <sequence>24</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:24, TotalPrice:25.0¥, Discount:0.0¥, FinalPrice:25.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139546</millis>
+  <sequence>27</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:26, TotalPrice:100.0¥, Discount:30.0¥, FinalPrice:70.0¥, msgs:subtract 30 ¥ from every 100 ¥ for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139554</millis>
+  <sequence>29</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:28, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139556</millis>
+  <sequence>30</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:29, TotalPrice:24.0¥, Discount:0.0¥, FinalPrice:24.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139557</millis>
+  <sequence>31</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:30, TotalPrice:26.0¥, Discount:0.0¥, FinalPrice:26.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139567</millis>
+  <sequence>32</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:31, TotalPrice:24.2¥, Discount:0.0¥, FinalPrice:24.2¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139578</millis>
+  <sequence>35</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:33, TotalPrice:26.0¥, Discount:0.0¥, FinalPrice:26.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139580</millis>
+  <sequence>36</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:34, TotalPrice:48.0¥, Discount:0.0¥, FinalPrice:48.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139582</millis>
+  <sequence>37</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:35, TotalPrice:53.0¥, Discount:8.0¥, FinalPrice:45.0¥, msgs:a 20% discount on every two Espresso(only big size)(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139589</millis>
+  <sequence>38</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:36, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139590</millis>
+  <sequence>39</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:37, TotalPrice:100.0¥, Discount:30.0¥, FinalPrice:70.0¥, msgs:subtract 30 ¥ from every 100 ¥ for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139596</millis>
+  <sequence>41</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:39, TotalPrice:26.0¥, Discount:0.0¥, FinalPrice:26.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139604</millis>
+  <sequence>42</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:40, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139605</millis>
+  <sequence>43</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:41, TotalPrice:23.0¥, Discount:0.0¥, FinalPrice:23.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139607</millis>
+  <sequence>44</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:42, TotalPrice:25.0¥, Discount:0.0¥, FinalPrice:25.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139614</millis>
+  <sequence>45</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:43, TotalPrice:46.0¥, Discount:0.0¥, FinalPrice:46.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139615</millis>
+  <sequence>46</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:44, TotalPrice:38.0¥, Discount:0.0¥, FinalPrice:38.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139621</millis>
+  <sequence>48</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:46, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139623</millis>
+  <sequence>49</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:47, TotalPrice:66.0¥, Discount:0.0¥, FinalPrice:66.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139631</millis>
+  <sequence>50</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:48, TotalPrice:24.0¥, Discount:0.0¥, FinalPrice:24.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139633</millis>
+  <sequence>51</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:49, TotalPrice:22.0¥, Discount:0.0¥, FinalPrice:22.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139635</millis>
+  <sequence>52</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:50, TotalPrice:20.0¥, Discount:0.0¥, FinalPrice:20.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139638</millis>
+  <sequence>53</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:51, TotalPrice:18.0¥, Discount:0.0¥, FinalPrice:18.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139658</millis>
+  <sequence>55</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:52, TotalPrice:60.0¥, Discount:0.0¥, FinalPrice:60.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139661</millis>
+  <sequence>56</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:53, TotalPrice:83.0¥, Discount:18.0¥, FinalPrice:65.0¥, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T11:12:19</date>
+  <millis>1561173139669</millis>
+  <sequence>57</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:54, TotalPrice:40.0¥, Discount:6.0¥, FinalPrice:34.0¥, msgs:when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:14:26</date>
+  <millis>1561173266821</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:1, TotalPrice:24.0¥, Discount:0.0¥, FinalPrice:24.0¥, msgs:empty</message>
+</record>
+<record>
+  <date>2019-06-22T11:14:26</date>
+  <millis>1561173266824</millis>
+  <sequence>1</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:2, TotalPrice:52.0¥, Discount:11.0¥, FinalPrice:41.0¥, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T11:14:55</date>
+  <millis>1561173295973</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:1, TotalPrice:24.0¥, Discount:0.0¥, FinalPrice:24.0¥, msgs:empty</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658160</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_ccdd</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658162</millis>
+  <sequence>1</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658162</millis>
+  <sequence>2</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_ccdd</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658162</millis>
+  <sequence>3</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_ssijiji</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658162</millis>
+  <sequence>4</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658163</millis>
+  <sequence>5</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_ssijiji</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658163</millis>
+  <sequence>6</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_srxsrx</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658163</millis>
+  <sequence>7</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658163</millis>
+  <sequence>8</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_srxsrx</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658198</millis>
+  <sequence>16</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_xca</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658207</millis>
+  <sequence>18</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_xca</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658214</millis>
+  <sequence>20</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_xca</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658221</millis>
+  <sequence>22</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_caca</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658240</millis>
+  <sequence>24</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_ninnu</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658246</millis>
+  <sequence>26</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_huhuxaxa</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658264</millis>
+  <sequence>28</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_hu</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658264</millis>
+  <sequence>29</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_ss</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658317</millis>
+  <sequence>41</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_oooot</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658331</millis>
+  <sequence>45</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_hu</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658332</millis>
+  <sequence>46</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User has logged in</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658358</millis>
+  <sequence>48</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658362</millis>
+  <sequence>49</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb__9890</message>
+</record>
+<record>
+  <date>2019-06-22T09:40:58</date>
+  <millis>1561167658363</millis>
+  <sequence>50</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_starbb_</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202556</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_123_23daswHHGd</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202557</millis>
+  <sequence>1</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_12300</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202558</millis>
+  <sequence>2</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_______</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202558</millis>
+  <sequence>3</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_kloPP</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202558</millis>
+  <sequence>4</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_HIIHIHIHII</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202558</millis>
+  <sequence>5</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_kkkkllklk</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202565</millis>
+  <sequence>6</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_ccdd</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202566</millis>
+  <sequence>7</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202566</millis>
+  <sequence>8</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_ccdd</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202566</millis>
+  <sequence>9</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_ssijiji</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202567</millis>
+  <sequence>10</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202567</millis>
+  <sequence>11</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_ssijiji</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202567</millis>
+  <sequence>12</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_srxsrx</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202568</millis>
+  <sequence>13</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202568</millis>
+  <sequence>14</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_srxsrx</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202580</millis>
+  <sequence>16</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202582</millis>
+  <sequence>17</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202622</millis>
+  <sequence>24</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_xca</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202627</millis>
+  <sequence>26</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_xca</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202632</millis>
+  <sequence>28</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_xca</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202636</millis>
+  <sequence>30</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_caca</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202644</millis>
+  <sequence>32</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_ninnu</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202652</millis>
+  <sequence>34</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_huhuxaxa</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202658</millis>
+  <sequence>36</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_hu</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202658</millis>
+  <sequence>37</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_ss</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202685</millis>
+  <sequence>42</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_1234567</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202685</millis>
+  <sequence>43</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_1</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202685</millis>
+  <sequence>44</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_12345</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202686</millis>
+  <sequence>45</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_123456789012345678901234567890123456789012</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202728</millis>
+  <sequence>53</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_oooot</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202748</millis>
+  <sequence>57</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message> User sign up successfully, name: starbb_hu</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202749</millis>
+  <sequence>58</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>User has logged in</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202761</millis>
+  <sequence>60</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Password is valid</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202765</millis>
+  <sequence>61</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb__9890</message>
+</record>
+<record>
+  <date>2019-06-22T09:50:02</date>
+  <millis>1561168202765</millis>
+  <sequence>62</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Username is valid: starbb_starbb_</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385489</millis>
+  <sequence>0</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:1, TotalPrice:72.0RMB, Discount:16.0RMB, FinalPrice:56.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385493</millis>
+  <sequence>1</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:2, TotalPrice:24.0RMB, Discount:0.0RMB, FinalPrice:24.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385494</millis>
+  <sequence>2</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:3, TotalPrice:52.0RMB, Discount:11.0RMB, FinalPrice:41.0RMB, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385497</millis>
+  <sequence>3</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:4, TotalPrice:49.0RMB, Discount:11.0RMB, FinalPrice:38.0RMB, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385498</millis>
+  <sequence>4</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:5, TotalPrice:78.0RMB, Discount:11.0RMB, FinalPrice:67.0RMB, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385499</millis>
+  <sequence>5</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:6, TotalPrice:96.0RMB, Discount:22.0RMB, FinalPrice:74.0RMB, msgs:every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385504</millis>
+  <sequence>6</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:7, TotalPrice:146.0RMB, Discount:34.0RMB, FinalPrice:112.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385507</millis>
+  <sequence>7</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:8, TotalPrice:164.0RMB, Discount:34.0RMB, FinalPrice:130.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385509</millis>
+  <sequence>8</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:9, TotalPrice:148.0RMB, Discount:36.0RMB, FinalPrice:112.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385513</millis>
+  <sequence>9</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:10, TotalPrice:20.0RMB, Discount:0.0RMB, FinalPrice:20.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385515</millis>
+  <sequence>10</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:11, TotalPrice:22.0RMB, Discount:0.0RMB, FinalPrice:22.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385515</millis>
+  <sequence>11</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:12, TotalPrice:23.0RMB, Discount:0.0RMB, FinalPrice:23.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385541</millis>
+  <sequence>14</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:14, TotalPrice:196.0RMB, Discount:41.0RMB, FinalPrice:155.0RMB, msgs:a 20% discount on every two Espresso(only big size)(basic-price);every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385544</millis>
+  <sequence>15</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:15, TotalPrice:192.0RMB, Discount:43.0RMB, FinalPrice:149.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385547</millis>
+  <sequence>16</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:16, TotalPrice:196.0RMB, Discount:40.0RMB, FinalPrice:156.0RMB, msgs:a 20% discount on every two Espresso(only big size)(basic-price);a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385550</millis>
+  <sequence>17</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:17, TotalPrice:172.0RMB, Discount:35.0RMB, FinalPrice:137.0RMB, msgs:a 20% discount on every two Espresso(only big size)(basic-price);a free drink for every 3 cups of either red tea or green tea(basic-price);every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385561</millis>
+  <sequence>20</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:20, TotalPrice:26.0RMB, Discount:0.0RMB, FinalPrice:26.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385566</millis>
+  <sequence>21</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:21, TotalPrice:23.0RMB, Discount:0.0RMB, FinalPrice:23.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385571</millis>
+  <sequence>22</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:22, TotalPrice:22.0RMB, Discount:0.0RMB, FinalPrice:22.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385572</millis>
+  <sequence>23</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:23, TotalPrice:23.0RMB, Discount:0.0RMB, FinalPrice:23.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385573</millis>
+  <sequence>24</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:24, TotalPrice:25.0RMB, Discount:0.0RMB, FinalPrice:25.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385587</millis>
+  <sequence>26</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:26, TotalPrice:100.0RMB, Discount:30.0RMB, FinalPrice:70.0RMB, msgs:subtract 30 RMB from every 100 RMB for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385588</millis>
+  <sequence>27</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:27, TotalPrice:146.0RMB, Discount:34.0RMB, FinalPrice:112.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385590</millis>
+  <sequence>28</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:28, TotalPrice:148.0RMB, Discount:30.0RMB, FinalPrice:118.0RMB, msgs:a 20% discount on every two Espresso(only big size)(basic-price);every two Cappuccino，the second cup of half-price(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385601</millis>
+  <sequence>30</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:30, TotalPrice:22.0RMB, Discount:0.0RMB, FinalPrice:22.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385602</millis>
+  <sequence>31</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:31, TotalPrice:24.0RMB, Discount:0.0RMB, FinalPrice:24.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385603</millis>
+  <sequence>32</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:32, TotalPrice:26.0RMB, Discount:0.0RMB, FinalPrice:26.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385608</millis>
+  <sequence>33</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:33, TotalPrice:24.2RMB, Discount:0.0RMB, FinalPrice:24.2RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385625</millis>
+  <sequence>36</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:36, TotalPrice:26.0RMB, Discount:0.0RMB, FinalPrice:26.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385627</millis>
+  <sequence>37</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:37, TotalPrice:48.0RMB, Discount:0.0RMB, FinalPrice:48.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385628</millis>
+  <sequence>38</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:38, TotalPrice:53.0RMB, Discount:8.0RMB, FinalPrice:45.0RMB, msgs:a 20% discount on every two Espresso(only big size)(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385630</millis>
+  <sequence>39</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:39, TotalPrice:79.0RMB, Discount:8.0RMB, FinalPrice:71.0RMB, msgs:a 20% discount on every two Espresso(only big size)(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385637</millis>
+  <sequence>40</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:40, TotalPrice:22.0RMB, Discount:0.0RMB, FinalPrice:22.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385640</millis>
+  <sequence>41</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:41, TotalPrice:100.0RMB, Discount:30.0RMB, FinalPrice:70.0RMB, msgs:subtract 30 RMB from every 100 RMB for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385642</millis>
+  <sequence>42</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:42, TotalPrice:110.0RMB, Discount:30.0RMB, FinalPrice:80.0RMB, msgs:subtract 30 RMB from every 100 RMB for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385645</millis>
+  <sequence>43</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:43, TotalPrice:220.0RMB, Discount:60.0RMB, FinalPrice:160.0RMB, msgs:subtract 30 RMB from every 100 RMB for the whole order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385654</millis>
+  <sequence>45</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:45, TotalPrice:26.0RMB, Discount:0.0RMB, FinalPrice:26.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385660</millis>
+  <sequence>46</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:46, TotalPrice:22.0RMB, Discount:0.0RMB, FinalPrice:22.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385661</millis>
+  <sequence>47</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:47, TotalPrice:23.0RMB, Discount:0.0RMB, FinalPrice:23.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385662</millis>
+  <sequence>48</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:48, TotalPrice:25.0RMB, Discount:0.0RMB, FinalPrice:25.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385667</millis>
+  <sequence>49</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:49, TotalPrice:46.0RMB, Discount:0.0RMB, FinalPrice:46.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385668</millis>
+  <sequence>50</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:50, TotalPrice:38.0RMB, Discount:0.0RMB, FinalPrice:38.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385674</millis>
+  <sequence>51</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:51, TotalPrice:22.0RMB, Discount:0.0RMB, FinalPrice:22.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385675</millis>
+  <sequence>52</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:52, TotalPrice:66.0RMB, Discount:0.0RMB, FinalPrice:66.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385679</millis>
+  <sequence>53</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:53, TotalPrice:24.0RMB, Discount:0.0RMB, FinalPrice:24.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385679</millis>
+  <sequence>54</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:54, TotalPrice:22.0RMB, Discount:0.0RMB, FinalPrice:22.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385680</millis>
+  <sequence>55</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:55, TotalPrice:20.0RMB, Discount:0.0RMB, FinalPrice:20.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385681</millis>
+  <sequence>56</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:56, TotalPrice:18.0RMB, Discount:0.0RMB, FinalPrice:18.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385691</millis>
+  <sequence>58</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:58, TotalPrice:60.0RMB, Discount:0.0RMB, FinalPrice:60.0RMB, msgs:</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385692</millis>
+  <sequence>59</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:59, TotalPrice:83.0RMB, Discount:18.0RMB, FinalPrice:65.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385695</millis>
+  <sequence>60</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:60, TotalPrice:81.0RMB, Discount:18.0RMB, FinalPrice:63.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385699</millis>
+  <sequence>61</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:61, TotalPrice:80.0RMB, Discount:18.0RMB, FinalPrice:62.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385701</millis>
+  <sequence>62</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:62, TotalPrice:180.0RMB, Discount:36.0RMB, FinalPrice:144.0RMB, msgs:a free drink for every 3 cups of either red tea or green tea(basic-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385706</millis>
+  <sequence>63</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:63, TotalPrice:40.0RMB, Discount:6.0RMB, FinalPrice:34.0RMB, msgs:when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+<record>
+  <date>2019-06-22T09:53:05</date>
+  <millis>1561168385708</millis>
+  <sequence>64</sequence>
+  <logger>starbb.logger.success</logger>
+  <level>INFO</level>
+  <class>fudan.se.lab4.service.impl.LoggerServiceImpl</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Id:64, TotalPrice:80.0RMB, Discount:12.0RMB, FinalPrice:68.0RMB, msgs:when buying at least one cup of tea and one cup of coffee，15% off for your order(whole-price);</message>
+</record>
+</log>
