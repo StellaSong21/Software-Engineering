@@ -1,0 +1,6 @@
+0,0,2,0.8,1,null,null,1,1:2:espresso#3,1:2:espresso#3,null,1
+0,0,1,1.0,1,null,null,1,1:3:redTea#1#2#3&greenTea#1#2#3,1:3:redTea#1#2#3&greenTea#1#2#3,null,2
+0,0,2,0.5,1,null,null,1,1:2:cappuccino#1#2#3,1:1:cappuccino#1#2#3,null,3
+1,0,0,30,1,null,null,0,0:100:null,0:100:null,null,4
+2,0,2,0.5,1,1970-11-11 00:00:00 CST,1970-11-11 23:59:59 CST,0,null,null,null,5
+3,0,2,0.85,1,null,null,0,1:1:redTea#1#2#3&greenTea#1#2#3@1:1:cappuccino#1#2#3&espresso#1#2#3,null,null,6

@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="411f8d0b-6fbb-4e2c-9316-efe6965ad6a0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lab4_skeleton$OrderServiceTests_testOptimalPromotion.ic" NAME="OrderServiceTests.testOptimalPromotion Coverage Results" MODIFIED="1555906993139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fudan.se.lab4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/lab4_skeleton$OrderServiceTests.ic" NAME="OrderServiceTests Coverage Results" MODIFIED="1555916457931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fudan.se.lab4.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lab4-skeleton" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/fudan/se/lab4/OrderServiceTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3780">
+              <caret line="699" column="8" selection-start-line="699" selection-start-column="8" selection-end-line="699" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#testOrderNull#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderItemNull#0;class#OrderServiceTests#0" />
+                <element signature="method#testOderItemEmpty#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderItemByNum#0;class#OrderServiceTests#0" />
+                <element signature="method#testDrinkNameError#0;class#OrderServiceTests#0" />
+                <element signature="method#testDrinkKinds#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderItemCombination#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderItemSizeSmall#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderItemSizeLarge#0;class#OrderServiceTests#0" />
+                <element signature="method#testCoffeeSizeCorrect#0;class#OrderServiceTests#0" />
+                <element signature="method#testTeaSizeRight#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderIngredientByNum#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderIngredientNameNull#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderIngredientNameError#0;class#OrderServiceTests#0" />
+                <element signature="method#testOrderIngredientNameCorrect#0;class#OrderServiceTests#0" />
+                <element signature="method#testIngredientSizeSmall#0;class#OrderServiceTests#0" />
+                <element signature="method#testIngredientByNum#0;class#OrderServiceTests#0" />
+                <element signature="method#testIngredientCombination#0;class#OrderServiceTests#0" />
+                <element signature="method#testEspressoPromotion#0;class#OrderServiceTests#0" />
+                <element signature="method#testCappuccinoPromotion#0;class#OrderServiceTests#0" />
+                <element signature="method#testRedTeaPromotion#0;class#OrderServiceTests#0" />
+                <element signature="method#testGreenTeaPromotion#0;class#OrderServiceTests#0" />
+                <element signature="method#testTeaCombinationPromotion#0;class#OrderServiceTests#0" />
+                <element signature="method#testFullReductionPromotion#0;class#OrderServiceTests#0" />
+                <element signature="method#testCombinationPromotion#0;class#OrderServiceTests#0" />
+                <element signature="method#testOptimalPromotion#0;class#OrderServiceTests#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/OrderRuleServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/constant/InfoConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="46" column="72" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/RuleServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#discountType0#0;class#RuleServiceImpl#0" />
+                <element signature="method#discountType1#0;class#RuleServiceImpl#0" />
+                <element signature="method#discountType2#0;class#RuleServiceImpl#0" />
+                <element signature="method#isInOrientedList#0;class#RuleServiceImpl#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/fudan/se/lab4/PriceServiceTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2427">
+              <caret line="168" column="2" selection-start-line="168" selection-start-column="2" selection-end-line="168" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/OrderServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/Rule.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/PromotionServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/entity/Drinks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="40">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding>
+                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#808#809#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>size</find>
+      <find>ingredient</find>
+      <find>折</find>
+      <find>expected</find>
+      <find>thrown</find>
+      <find>NUM</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>EMPTYMSGS</replace>
+      <replace>折</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/entity/Cappuccino.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fudan/se/lab4/FileUtilTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fudan/se/lab4/AccountServiceTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/TestLisEquals.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/PromotionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/RuleResult.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/PaymentInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/RuleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/OrderRuleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/util/DrinkUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/fudan/se/lab4/constant/InfoConstant.java" />
+        <option value="$PROJECT_DIR$/src/test/java/fudan/se/lab4/OrderServiceTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lab4-skeleton" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="981" />
+    <option name="height" value="1092" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="dto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lab4-skeleton" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556027965783" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lab5/lab5" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.OrderServiceTests">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4-skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fudan.se.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fudan.se.lab4" />
+      <option name="MAIN_CLASS_NAME" value="fudan.se.lab4.OrderServiceTests" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceTests.testCombinationPromotion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4-skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fudan.se.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fudan.se.lab4" />
+      <option name="MAIN_CLASS_NAME" value="fudan.se.lab4.OrderServiceTests" />
+      <option name="METHOD_NAME" value="testCombinationPromotion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceTests.testFullReductionPromotion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4-skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fudan.se.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fudan.se.lab4" />
+      <option name="MAIN_CLASS_NAME" value="fudan.se.lab4.OrderServiceTests" />
+      <option name="METHOD_NAME" value="testFullReductionPromotion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceTests.testOptimalPromotion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4-skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fudan.se.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fudan.se.lab4" />
+      <option name="MAIN_CLASS_NAME" value="fudan.se.lab4.OrderServiceTests" />
+      <option name="METHOD_NAME" value="testOptimalPromotion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceTests.testTeaCombinationPromotion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4-skeleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fudan.se.lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="fudan.se.lab4" />
+      <option name="MAIN_CLASS_NAME" value="fudan.se.lab4.OrderServiceTests" />
+      <option name="METHOD_NAME" value="testTeaCombinationPromotion" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="lab4-skeleton" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="fudan.se.lab4.Lab4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OrderServiceTests" />
+        <item itemvalue="JUnit.OrderServiceTests.testOptimalPromotion" />
+        <item itemvalue="JUnit.OrderServiceTests.testFullReductionPromotion" />
+        <item itemvalue="JUnit.OrderServiceTests.testCombinationPromotion" />
+        <item itemvalue="JUnit.OrderServiceTests.testTeaCombinationPromotion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="411f8d0b-6fbb-4e2c-9316-efe6965ad6a0" name="Default Changelist" comment="" />
+      <created>1555303760407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555303760407</updated>
+      <workItem from="1555303765466" duration="3546000" />
+      <workItem from="1555720234045" duration="20953000" />
+      <workItem from="1555846041277" duration="6957000" />
+      <workItem from="1555853243143" duration="15791000" />
+      <workItem from="1555893340199" duration="14253000" />
+      <workItem from="1555912471268" duration="3075000" />
+      <workItem from="1556018318083" duration="9080000" />
+      <workItem from="1558179863040" duration="1721000" />
+      <workItem from="1558331280730" duration="2208000" />
+      <workItem from="1558964997951" duration="654000" />
+    </task>
+    <task id="LOCAL-00001" summary="add JMock Configuration">
+      <created>1555724442797</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555724442797</updated>
+    </task>
+    <task id="LOCAL-00002" summary="delete useless comments">
+      <created>1555729364450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555729364450</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add constant FAILED_GET_DRINKS">
+      <created>1555745710214</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555745710215</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add equals(Object obj), overwritten">
+      <created>1555745762548</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555745762548</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add test for OrderService">
+      <created>1555745848089</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555745848089</updated>
+    </task>
+    <task id="LOCAL-00006" summary="delete unnecessary import">
+      <created>1555853936139</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555853936139</updated>
+    </task>
+    <task id="LOCAL-00007" summary="finish test OrderService">
+      <created>1555902579768</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1555902579768</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modify test OrderService">
+      <created>1555907470419</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1555907470419</updated>
+    </task>
+    <task id="LOCAL-00009" summary="delete redundant space">
+      <created>1555907564295</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1555907564295</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modify testOptimalPromotion">
+      <created>1555910917954</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1555910917954</updated>
+    </task>
+    <task id="LOCAL-00011" summary="polish test OrderService: add log for exception">
+      <created>1555916429648</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1555916429648</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add testOrderIngredientByNum">
+      <created>1556027736211</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556027736211</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add test for some log message">
+      <created>1556027988401</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556027988401</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="OrderServiceTests_testGreenTeaPromotion - 2019.04.23 at 20h 52m 18s.xml">
+      <configuration name="OrderServiceTests.testGreenTeaPromotion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests_testGreenTeaPromotion - 2019.04.23 at 20h 52m 32s.xml">
+      <configuration name="OrderServiceTests.testGreenTeaPromotion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests_testTeaCombinationPromotion - 2019.04.23 at 20h 55m 59s.xml">
+      <configuration name="OrderServiceTests.testTeaCombinationPromotion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests_testCombinationPromotion - 2019.04.23 at 21h 04m 46s.xml">
+      <configuration name="OrderServiceTests.testCombinationPromotion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests_testFullReductionPromotion - 2019.04.23 at 21h 07m 30s.xml">
+      <configuration name="OrderServiceTests.testFullReductionPromotion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests_testOptimalPromotion - 2019.04.23 at 21h 14m 01s.xml">
+      <configuration name="OrderServiceTests.testOptimalPromotion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests - 2019.04.23 at 21h 14m 18s.xml">
+      <configuration name="OrderServiceTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests - 2019.04.23 at 21h 56m 09s.xml">
+      <configuration name="OrderServiceTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests - 2019.04.23 at 21h 56m 58s.xml">
+      <configuration name="OrderServiceTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="OrderServiceTests - 2019.04.23 at 21h 57m 55s.xml">
+      <configuration name="OrderServiceTests" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="78238000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991708" visible="true" weight="0.20210186" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50082916" side_tool="true" weight="0.21018593" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3283582" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49717057" weight="0.5124378" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6302521" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3283582" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5014896" side_tool="true" weight="0.58872306" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32669982" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.3277311" />
+      <window_info anchor="bottom" id="Coverage" order="15" sideWeight="0.50282943" side_tool="true" weight="0.51741296" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.4969325" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.4969325" weight="0.32983023" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.4969325" weight="0.32983023" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" sideWeight="0.4969325" weight="0.32983023" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add JMock Configuration" />
+    <MESSAGE value="delete useless comments" />
+    <MESSAGE value="add constant FAILED_GET_DRINKS" />
+    <MESSAGE value="add equals(Object obj), overwritten" />
+    <MESSAGE value="add test for OrderService" />
+    <MESSAGE value="delete unnecessary import" />
+    <MESSAGE value="finish test OrderService" />
+    <MESSAGE value="modify test OrderService" />
+    <MESSAGE value="delete redundant space" />
+    <MESSAGE value="modify testOptimalPromotion" />
+    <MESSAGE value="polish test OrderService: add log for exception" />
+    <MESSAGE value="add testOrderIngredientByNum" />
+    <MESSAGE value="add test for some log message" />
+    <option name="LAST_COMMIT_MESSAGE" value="add test for some log message" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="268" selection-start-line="268" selection-end-line="268" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#10310#10449#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.6.RELEASE/spring-test-5.1.6.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunBeforeTestClassCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.6.RELEASE/spring-test-5.1.6.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestClassCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/TestLisEquals.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/fudan/se/lab4/AccountServiceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/entity/Ingredient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/repository/impl/IngredientRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/GoodsServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/RuleResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="e#491#492#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fudan/se/lab4/Lab4ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/PromotionResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/UserServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/data/cappuccino.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ingredient.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/greenTea.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/redTea.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/entity/Cappuccino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/entity/Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/entity/RedTea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/Ingredient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/espresso.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/PaymentInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mvnw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/PromotionService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/Lab4Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/OrderItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/RuleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/OrderRuleService.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/rules/ExpectedException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.6.RELEASE/spring-test-5.1.6.RELEASE.jar!/org/springframework/test/context/junit4/statements/SpringRepeat.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/rules/RunRules.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.6.RELEASE/spring-test-5.1.6.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestMethodCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/statements/RunAfters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.1.6.RELEASE/spring-test-5.1.6.RELEASE.jar!/org/springframework/test/context/junit4/statements/RunAfterTestExecutionCallbacks.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/util/DrinkUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="method#getDrinks#0;class#DrinkUtil#0" />
+            <element signature="method#isDrinkIngredientValid#0;class#DrinkUtil#0" />
+            <element signature="method#isOrderValid#0;class#DrinkUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fudan/se/lab4/OrderServiceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3780">
+          <caret line="699" column="8" selection-start-line="699" selection-start-column="8" selection-end-line="699" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#testOrderNull#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderItemNull#0;class#OrderServiceTests#0" />
+            <element signature="method#testOderItemEmpty#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderItemByNum#0;class#OrderServiceTests#0" />
+            <element signature="method#testDrinkNameError#0;class#OrderServiceTests#0" />
+            <element signature="method#testDrinkKinds#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderItemCombination#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderItemSizeSmall#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderItemSizeLarge#0;class#OrderServiceTests#0" />
+            <element signature="method#testCoffeeSizeCorrect#0;class#OrderServiceTests#0" />
+            <element signature="method#testTeaSizeRight#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderIngredientByNum#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderIngredientNameNull#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderIngredientNameError#0;class#OrderServiceTests#0" />
+            <element signature="method#testOrderIngredientNameCorrect#0;class#OrderServiceTests#0" />
+            <element signature="method#testIngredientSizeSmall#0;class#OrderServiceTests#0" />
+            <element signature="method#testIngredientByNum#0;class#OrderServiceTests#0" />
+            <element signature="method#testIngredientCombination#0;class#OrderServiceTests#0" />
+            <element signature="method#testEspressoPromotion#0;class#OrderServiceTests#0" />
+            <element signature="method#testCappuccinoPromotion#0;class#OrderServiceTests#0" />
+            <element signature="method#testRedTeaPromotion#0;class#OrderServiceTests#0" />
+            <element signature="method#testGreenTeaPromotion#0;class#OrderServiceTests#0" />
+            <element signature="method#testTeaCombinationPromotion#0;class#OrderServiceTests#0" />
+            <element signature="method#testFullReductionPromotion#0;class#OrderServiceTests#0" />
+            <element signature="method#testCombinationPromotion#0;class#OrderServiceTests#0" />
+            <element signature="method#testOptimalPromotion#0;class#OrderServiceTests#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/OrderRuleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/constant/InfoConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="46" column="72" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/entity/Drinks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding>
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#808#809#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/PromotionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="31" column="21" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/dto/Rule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/fudan/se/lab4/service/impl/RuleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#discountType0#0;class#RuleServiceImpl#0" />
+            <element signature="method#discountType1#0;class#RuleServiceImpl#0" />
+            <element signature="method#discountType2#0;class#RuleServiceImpl#0" />
+            <element signature="method#isInOrientedList#0;class#RuleServiceImpl#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/fudan/se/lab4/PriceServiceTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2427">
+          <caret line="168" column="2" selection-start-line="168" selection-start-column="2" selection-end-line="168" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (D)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
